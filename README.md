@@ -114,6 +114,6 @@ The Gator Ticket Master system efficiently handles seat reservations, cancellati
 
 ## Author
 
-Name: Sai Pande
-University: University of Florida, Computer Science and Information Science Engineering
-Email: saipande@ufl.edu
+**Name: Sai Pande**
+**University: University of Florida, Computer Science and Information Science Engineering**
+**Email: [saipande@ufl.edu](mailto:saipande@ufl.edu)**
