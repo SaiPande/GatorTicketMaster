@@ -82,24 +82,24 @@ $ make run INPUT_FILE=input.txt
 
 ## Example Input/Output
 
-**Input File: input.txt**
+### Input File: input.txt
 
-Initialize 5
-Reserve 101 1
-Reserve 102 2
-Cancel 1 101
-AddSeats 3
-PrintReservations
-Quit
+Initialize 5<br>
+Reserve 101 1<br>
+Reserve 102 2<br>
+Cancel 1 101<br>
+AddSeats 3<br>
+PrintReservations<br>
+Quit<br>
 
-**Output File: input_output_file.txt**
+### Output File: input_output_file.txt
 
-Initialization complete: 5 seats available
-Seat reserved: User 101 - Seat 1
-Seat reserved: User 102 - Seat 2
-Reservation canceled: Seat 1 - User 101
-Seats added: 3
-Reservations: Seat 2 - User 102
+Initialization complete: 5 seats available<br>
+Seat reserved: User 101 - Seat 1<br>
+Seat reserved: User 102 - Seat 2<br>
+Reservation canceled: Seat 1 - User 101<br>
+Seats added: 3<br>
+Reservations: Seat 2 - User 102<br>
 
 
 ## Performance
@@ -114,6 +114,6 @@ The Gator Ticket Master system efficiently handles seat reservations, cancellati
 
 ## Author
 
-**Name: Sai Pande**
-**University: University of Florida, Computer Science and Information Science Engineering**
-**Email: [saipande@ufl.edu](mailto:saipande@ufl.edu)**
+**Name: Sai Pande**<br>
+**University: University of Florida, Computer Science and Information Science Engineering**<br>
+**Email: [saipande@ufl.edu](mailto:saipande@ufl.edu)**<br>
